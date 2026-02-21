@@ -1,0 +1,470 @@
+{
+  "playlist": {
+    "repeat": true,
+    "id": "f78e54bd-97f6-4769-8461-de21ad017a3d",
+    "ads": [       
+    {
+        "slot_id": "1",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-1.mp4",
+        "image_file": "assest-video-1.mp4",
+        "image_hash": "45970191df54b8723d9c158f5861e26f0ce66789eb1d7ff275f720a01e4a99d6",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "2",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-2.mp4",
+        "image_file": "assest-video-2.mp4",
+        "image_hash": "680fdfca383075231a990d4e9ac01b868908f28d46ae784afc156c5b5280a782",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "3",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-3.mp4",
+        "image_file": "assest-video-3.mp4",
+        "image_hash": "9df140c0212856ed935db377b954c410cf46ab10397051d9901e0f48b1c49ba5",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "4",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-4.mp4",
+        "image_file": "assest-video-4.mp4",
+        "image_hash": "b7f2b2e4288ee6dbc18966a051ac7b742d43125273df3cdd46c0c9a64cd5b25e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "5",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-5.mp4",
+        "image_file": "assest-video-5.mp4",
+        "image_hash": "4ea9ca7e5af6f8545819b5aca45fb834049ed7f842e5683b11fe09a52f969366",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "6",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-6.mp4",
+        "image_file": "assest-video-6.mp4",
+        "image_hash": "9e98f2a222b2707b3c3378551f945e7b2ad68e419e4872f49ebcc737e5b3a387",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "7",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-7.mp4",
+        "image_file": "assest-video-7.mp4",
+        "image_hash": "fc6a7cfc77341ca664115151d423881dae736fdddef7437786bdf324fcf499c9",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "8",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-8.mp4",
+        "image_file": "assest-video-8.mp4",
+        "image_hash": "6ba25f29c170b029dd6ef1bc390bb661c99b8954268eb96f326296ec4b866b49",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "9",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-9.mp4",
+        "image_file": "assest-video-9.mp4",
+        "image_hash": "2ac42c47a2c0161491325d562393e12992fb711f5f14dee52f09df4c4c2f97c8",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "10",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-10.mp4",
+        "image_file": "assest-video-10.mp4",
+        "image_hash": "214cbefa348526e950f538037e45c2ee5b2c8f2894c90ea556ad16e3a0a34003",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "11",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-11.mp4",
+        "image_file": "assest-video-11.mp4",
+        "image_hash": "9b7702c97afeb5e20ec7e8dd16f0c6867ea6907bc2c549fa6b95441d8e5e2c2d",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "12",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-12.mp4",
+        "image_file": "assest-video-12.mp4",
+        "image_hash": "1684520882daec4c8c7ecba85e9bdee39c584688152b961f307f38310a0dc5f4",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "13",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-13.mp4",
+        "image_file": "assest-video-13.mp4",
+        "image_hash": "efe5f4546b7f31d1ddd438da5242ed69ee6daffffdf452fefba8b5b03edaa8bd",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "14",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-14.mp4",
+        "image_file": "assest-video-14.mp4",
+        "image_hash": "d7b90f72f196aac32e3d19482ff86c56ae301b752d0239b2b46b680dbc9c47c9",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "15",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-15.mp4",
+        "image_file": "assest-video-15.mp4",
+        "image_hash": "66448aa91a5ec445c33c6ba2e85edb0409dd7b2420f7c7697ffb7cc30b643829",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "16",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-16.mp4",
+        "image_file": "assest-video-16.mp4",
+        "image_hash": "394a01ea782d7c1e85246d9f7471ca5a88b8848513a7a53064ac3037ef2aefb0",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "17",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-17.mp4",
+        "image_file": "assest-video-17.mp4",
+        "image_hash": "360c0a6a5a07105d8698e701968e4e1481ab4149ee2c046716d4bee48c32e216",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "18",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-18.mp4",
+        "image_file": "assest-video-18.mp4",
+        "image_hash": "04513fe1bf0372dcf6ae97dbed3812e1f17d46f4111984459f079c7132d376fe",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "19",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-19.mp4",
+        "image_file": "assest-video-19.mp4",
+        "image_hash": "26649c4d33b59d716fea7ec18fa960d1465cb8e32035ec1d6aea8d2e760b99cf",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "20",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-20.mp4",
+        "image_file": "assest-video-20.mp4",
+        "image_hash": "a55d65ee425af10785d43c857e8e4339d2a540e070c6b36c0291bb4fc89c48a0",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "21",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-21.mp4",
+        "image_file": "assest-video-21.mp4",
+        "image_hash": "b34a9f9811aa5286851837d95ef17d3ecb844b4d73bcfd55db35c7ded96ed51d",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "22",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-22.mp4",
+        "image_file": "assest-video-22.mp4",
+        "image_hash": "0c5e3dbb7407a2081cb1b2af86a2406107b4029528514101a3a39b13d679da3a",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "23",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-23.mp4",
+        "image_file": "assest-video-23.mp4",
+        "image_hash": "482330361cb91237d8782298460312c3372d90755112e2281ed6f42368890001",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "24",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-24.mp4",
+        "image_file": "assest-video-24.mp4",
+        "image_hash": "7de9d8803a30850650ce46311439c6394e32e1dc932db59a0a219d057e7a337e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "25",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-25.mp4",
+        "image_file": "assest-video-25.mp4",
+        "image_hash": "d8d2051b5d12f4ccbd84f53dfa327155ac8e96ae4bf0812b9341da3099157eaa",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "26",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-26.mp4",
+        "image_file": "assest-video-26.mp4",
+        "image_hash": "ab5e9cf2c965fb91230e7108ad43cc9d1956ff1601c7d1dd3e8e58e8a6995aea",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "27",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-27.mp4",
+        "image_file": "assest-video-27.mp4",
+        "image_hash": "ab0c02e020a0a3cc08e8757b7557133c1a868094b3ee011f2fcac4adbc952d42",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "28",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-28.mp4",
+        "image_file": "assest-video-28.mp4",
+        "image_hash": "13ae6d8b7e321a820e33511b209220be7bd32b98d1b1e97406748e55a63cda6c",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "29",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-29.mp4",
+        "image_file": "assest-video-29.mp4",
+        "image_hash": "af59ef762b43fd8a5cbc95e2bbdd067f688a0c0336ebf619f3250d030c73fb7e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "30",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-30.mp4",
+        "image_file": "assest-video-30.mp4",
+        "image_hash": "50e6371c310f9355c8c3fcdfcc81d3cc4a21d3999e321341438aa08ff5fdd720",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "31",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-31.mp4",
+        "image_file": "assest-video-31.mp4",
+        "image_hash": "ab003ff3e26122075c8c96029bf9bc918e861937497f859b27c09ed2d72325cb",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "32",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-32.mp4",
+        "image_file": "assest-video-32.mp4",
+        "image_hash": "33a5c0d61517099b431ace8dfd9b437b963e78bca74d815c824d52e517007841",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "33",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-33.mp4",
+        "image_file": "assest-video-33.mp4",
+        "image_hash": "c1a9c1dd4a402bbc070a13f787547d1021cdbe002d9bf2d643fe7a59a00b8b96",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "34",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-34.mp4",
+        "image_file": "assest-video-34.mp4",
+        "image_hash": "b590a4bc5255918144f24a2166f7c416bffe6579cab6e383a37aaef230e51c8f",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "35",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-35.mp4",
+        "image_file": "assest-video-35.mp4",
+        "image_hash": "cd0313c267f0845c754c92b1d7feeb79e03d74f55b3ed8d22dd986a34d8adfa1",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "36",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-36.mp4",
+        "image_file": "assest-video-36.mp4",
+        "image_hash": "409abbd3f0319f8362a450899dd00522d521933ce3c4d6a55b8beacf966878ed",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "37",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-37.mp4",
+        "image_file": "assest-video-37.mp4",
+        "image_hash": "8151fa8002bc68d3837b51f6be76ed9ab00e6541c33271d8d1b2ccdebb10e305",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "38",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-38.mp4",
+        "image_file": "assest-video-38.mp4",
+        "image_hash": "f24727a123e86e2d6b63e41b50dd752728a8a4acfa070d7469a273a15cf664b3",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "39",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-39.mp4",
+        "image_file": "assest-video-39.mp4",
+        "image_hash": "4faac51123996074722872a1c8ad96aa6c70c75bcd769beb67593051af708e21",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "40",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-40.mp4",
+        "image_file": "assest-video-40.mp4",
+        "image_hash": "3a4284309e2725f4da60d7f93c5a4d653130a4505aba6a099a0d166c99427d42",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "41",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-41.mp4",
+        "image_file": "assest-video-41.mp4",
+        "image_hash": "df04b2fe9d663d5f96977f4cec2e2be532d7d0b9beb3b3c310ac763cfec6d3fb",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "42",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-42.mp4",
+        "image_file": "assest-video-42.mp4",
+        "image_hash": "760c141ea9e91dacd143d0c9838f9f8037eba2c70492b4a86bd12c183c3aeb35",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "43",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-43.mp4",
+        "image_file": "assest-video-43.mp4",
+        "image_hash": "2b94e2921e33e8922e13ffb2a7e755f723ced5ea0ee075e5708b287ee375564a",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "44",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-44.mp4",
+        "image_file": "assest-video-44.mp4",
+        "image_hash": "10f817e6dfc9d3923e7f28c4c6bbf50a252556e14d4b90fbc49abebbe73be580",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "45",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-45.mp4",
+        "image_file": "assest-video-45.mp4",
+        "image_hash": "7739d698845212da18a671a226ede5510b9c530efbaaa21d3994c51be4b6a356",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "46",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-46.mp4",
+        "image_file": "assest-video-46.mp4",
+        "image_hash": "972173f887bf9b59188d16dd4508d7973388d90339b27199a77b3ef8798d262f",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "47",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-47.mp4",
+        "image_file": "assest-video-47.mp4",
+        "image_hash": "16384bd1433da75daa133524c28a16d0b142927a3c2077e5470f3e023eca4373",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "48",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-48.mp4",
+        "image_file": "assest-video-48.mp4",
+        "image_hash": "1384b72dd0d2c2f8d2779e481f3383c2806a83fe692b6e114130488f2e26ce2a",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "49",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-49.mp4",
+        "image_file": "assest-video-49.mp4",
+        "image_hash": "4dd216b7d9da73ee7ec04e08cb987bb10aaf2c03d1bd279a260bae8deb70f472",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "50",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-50.mp4",
+        "image_file": "assest-video-50.mp4",
+        "image_hash": "305cb5a2bec0adfa4cbb45ba7ede0bc2b7df355ce4ff7e17ae8b135db157286e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "51",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-51.mp4",
+        "image_file": "assest-video-51.mp4",
+        "image_hash": "ca265ea4ac86cd45a3ada140ee2e749bffa5cc3da2cf706d9941a57e41e3d46e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "52",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-52.mp4",
+        "image_file": "assest-video-52.mp4",
+        "image_hash": "748d9a93f7f7800208f0b0f4a6713089ec1cde9625635a9ad56b42066ba626a7",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "53",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-53.mp4",
+        "image_file": "assest-video-53.mp4",
+        "image_hash": "2ba050813c35bf1050de78b3d78806c4666dd82652dc2705ce85fdae27226a99",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "54",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-54.mp4",
+        "image_file": "assest-video-54.mp4",
+        "image_hash": "e6d960fbd73260cdb01721f9001911b457fa768472b46aea6f6957b422cf6813",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "55",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-55.mp4",
+        "image_file": "assest-video-55.mp4",
+        "image_hash": "3c4b0caeb6ca58c07a71c1063a95322a1d2113ed6797314284ffab4e7044f684",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "56",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-56.mp4",
+        "image_file": "assest-video-56.mp4",
+        "image_hash": "a15223ab1bb1d688af47e7ed9f1edae3b2f475fd57d7533588ec4fadf9f6911a",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "57",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-57.mp4",
+        "image_file": "assest-video-57.mp4",
+        "image_hash": "0d7240510385390f12ebecc5287ad78dee0d5c3928d1270c4719c82670d82a49",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "58",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-58.mp4",
+        "image_file": "assest-video-58.mp4",
+        "image_hash": "8a0b0afb30c1923388143f1625b53c1991bd7a91e0fb1dcce6271d0fa0cb307e",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "59",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-59.mp4",
+        "image_file": "assest-video-59.mp4",
+        "image_hash": "443a1bdfd1d1835b1b806ef0cfd5120c78b5af5e98f05ada46bd7474093bc6bf",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "60",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-60.mp4",
+        "image_file": "assest-video-60.mp4",
+        "image_hash": "ee1864319001a6cf7364719a5602406713b483668647e02c2e18117bb9bb25e3",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "61",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-61.mp4",
+        "image_file": "assest-video-61.mp4",
+        "image_hash": "46b9dbeff884c3fb31d8bc17ecc2259c4693f93d93d5ab4adeecde03bfe2079c",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "62",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-62.mp4",
+        "image_file": "assest-video-62.mp4",
+        "image_hash": "ee4255a593d1b4f7a3a93fa8e5f85bc889e01d16dee0404b90f02e9ab5ee7ec6",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "63",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-63.mp4",
+        "image_file": "assest-video-63.mp4",
+        "image_hash": "9c401cfb197d8e317f645701bf5db2bc35e343210cdc628e432e51755a0655e8",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "64",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-64.mp4",
+        "image_file": "assest-video-64.mp4",
+        "image_hash": "7a56004f262be5637a94cc70294445755cbe2e2c24403d12894ec5cccbfd62e9",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "65",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-65.mp4",
+        "image_file": "assest-video-65.mp4",
+        "image_hash": "517e181d15705f70bb02c26dd1a41744e20fd7b20b338fe753290452fafb6e07",
+        "duration_seconds": 10
+    },
+    {
+        "slot_id": "66",
+        "image_url": "https://a1-group.github.io/proto-assets/assest-video-66.mp4",
+        "image_file": "assest-video-66.mp4",
+        "image_hash": "ba6a0f82ac300e40e1bad9f5c38e2afe59a5d550a0f1cac22204c5956ea6dc51",
+        "duration_seconds": 10
+    }
+]
+  }
+}
