@@ -1,0 +1,1 @@
+ffmpeg -i assest-video-66.mp4 -c:v libx264 -preset veryfast -profile:v high -level 4.0 -pix_fmt yuv420p -b:v 5M -maxrate 5M -bufsize 10M -movflags +faststart -an ./temp/assest-video-66.mp4
