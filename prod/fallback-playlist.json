@@ -1,0 +1,15 @@
+{
+  "playlist": {
+    "repeat": true,
+    "id": "f78e54bd-97f6-4769-8461-de21ad017c5f",
+    "ads": [       
+    {
+        "slot_id": "1",
+        "image_url": "https://a1-group.github.io/proto-assets/prod/lp1_updated.png",
+        "image_file": "lp1_updated.png",
+        "image_hash": "35defa90ea184f69ade7fe60d0c0b564157af4f5efd73b26352b91fff2146b05",
+        "duration_seconds": 10
+    }
+]
+  }
+}
