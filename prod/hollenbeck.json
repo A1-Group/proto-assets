@@ -1,0 +1,64 @@
+{
+  "playlist": {
+    "repeat": true,
+    "id": "d848b25d-5cd1-4123-9c6f-7350ce6db0f5",
+    "ads": [
+      {
+        "slot_id": 1,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/spring-updated-10s.mp4?Expires=1780341066&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=NkZjBStrMS-4I4l6NhlyyVaPmIjp5QyYRNNKeISPI~OU09z5JYwanKnM2rponeaxKguR2bRcmFBzv7tw79aXkLLSMHdlHZc8NOrwqgnC4tdpkG9l9XjP-1AoJHPXWyJtWAuzMuWs1T8N7PdHTyArFi2aTdBtAsLl7RPX8NVAqxcFSLB8S0~I7vcUdWLl-FNAM5WQMT6P64Xshgp7iJsQu02gZ3KU8Fa5LFe8V~pHNHHj6k6-kQPFE2w~LdETYNyC~FP1UPluthCacA7wtFnRo0654ZoE5n4Rlkz9N2sj5atV6dlBiSlu5UBcxiYEQVRnDzxpAXB2zia3e~z0t5gC~A__",
+        "image_file": "spring-updated-10s.mp4",
+        "image_hash": "0ef67ab608a37f3021dd172377807fa5c8b2e058ebe1f3451dcabef2516a013f",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 2,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/686361b0eb5cf3b4722e19a8/KamnaMittalv4-hindi.mp4?Expires=1780341066&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=H7I2gWtLk13bpav4eXdVN7Q8KTle7c8ZyzAGJELxiUG-poo5SHyw5WE6jQsR6E53LbcSaS9U5lSGvZMDZL-wF6-iLoxzgHLOcwGWOwjV~r1DKnt6BIRUW10er0jzMRTspIC8MOw6LjWxDP6GmIF4UHIHMErqc-HKihPUffg7xFOfDebALfOt8SXZ89GO-S6XQ-7cKqhMegNRv5Wr3uDQGNGS-ReV6rOBwgED79CZAyQlbDYp5vWjwDlahJTyLNZVf1EfIN~ehr1ArrBcYi04p1H0kNYhNQNRNr5buNHn80Xxd0KS4NJGc7LahprPY-jAlcbI677aRNR5ra5BtapF-Q__",
+        "image_file": "KamnaMittalv4-hindi.mp4",
+        "image_hash": "0e522bbedfe5454204a2d78a27a9f4e1607b0f6366cab9709fd1cd9d6fd9f7a6",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 3,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/lp1_updated.png?Expires=1780341065&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=XPVXeVNfm-P6ueG10NRCnTth9Z8vrmxLzMHcapEZe9jIfPGSiCJg83gNP-KL6v52lbuCBTtrI~hqNmIItHclagstNa6-aDjbdj-9~qlSR-Ffh8sntPBZWbnRxgee9LD9GZmU7MUmOBcvlwwX66q22sfalxNinWc1HDKnKwgaPEWSxtnwmwUWe5b31t4bs7KCU6W3tBT4-Fc-yitb78zqA4KW3HBdrbSs3qldLUOQZhJ--7a3sLOWIFG-IVjWU9vYC5KBV2YXjGRV1Wyd7SW4TU5GC16RI~G4AN~cp6Euaapyo6pBZGeSYlDsJy~8aAZ7nMsmSQ-ewUxWRYk2E~GAqw__",
+        "image_file": "lp1_updated.png",
+        "image_hash": "35defa90ea184f69ade7fe60d0c0b564157af4f5efd73b26352b91fff2146b05",
+        "duration_seconds": 10.1
+      },
+{
+	"slot_id": 4,
+	"image_url": "https://a1-group.github.io/proto-assets/prod/Srikanth%20Rentachintala_17f5f31b2ce91e33db2715df.png",
+"image_file": "Srikanth Rentachintala_17f5f31b2ce91e33db2715df.png",
+        "image_hash": "14d88f0fe5bfa80b055e22fd76a9dda435758d21dabebe4c514cf165db85e227",
+        "duration_seconds": 10
+},
+{
+	"slot_id": 5,
+"image_url": "https://d23k76wx75a1sg.cloudfront.net/68217ef259dbeeae5128f1fc/bagara_noaudio.mp4?Expires=1779922780&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=hEldFqX9cvwBvFHo53osKXoi-W0bIBA955J9ukQY-NzpRxqKuIiG8LxbSqyKc-4ALJjXj0Yy6xFvcSZllwItQcU625fn2I7KDdSF~zjnq9LYL8dwiNjEVnDeCAbnXjwyR6hX2f2yn~8wYu4ImCvUVpGUjgrC8ZB8uuIBN8x8x5IXKw6iWYjNvcJPEfufhPkz5o-FseIO~T~uPzQ2s8kimk6tOwvqFs-RLpsxk28YaR67h~XXkm74TY9ik6ek4nn2bxrS37lnOWzt9X~NzdlaMx4riLPx3AoMr2cxPdJQtoOdq41h80itn7EoSjcMka3lz9xICWMFA98CXo2thL~iow__",
+        "image_file": "bagara_noaudio.mp4",
+        "image_hash": "88936898287292971cd1f7257ba79c8d4ce5f8af850f2c8150e560a8a4cb1afd",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+},
+{
+"slot_id": 6,
+"image_url": "https://a1-group.github.io/proto-assets/prod/Payal%20Ramsisaria%20Realtor_4d41fe68bd4084bbc99b5aba.mp4",
+        "image_file": "Payal Ramsisaria Realtor_4d41fe68bd4084bbc99b5aba.mp4",
+        "image_hash": "e50ab08e037e85a472cbc2ab436244ceeb6ccbb199df66506ecb016273b2be0a",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+
+}
+
+    ]
+  }
+}
