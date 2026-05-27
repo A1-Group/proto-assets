@@ -38,17 +38,7 @@
         "duration_seconds": 10
 },
 {
-	"slot_id": 5,
-"image_url": "https://d23k76wx75a1sg.cloudfront.net/68217ef259dbeeae5128f1fc/bagara_noaudio.mp4?Expires=1779922780&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=hEldFqX9cvwBvFHo53osKXoi-W0bIBA955J9ukQY-NzpRxqKuIiG8LxbSqyKc-4ALJjXj0Yy6xFvcSZllwItQcU625fn2I7KDdSF~zjnq9LYL8dwiNjEVnDeCAbnXjwyR6hX2f2yn~8wYu4ImCvUVpGUjgrC8ZB8uuIBN8x8x5IXKw6iWYjNvcJPEfufhPkz5o-FseIO~T~uPzQ2s8kimk6tOwvqFs-RLpsxk28YaR67h~XXkm74TY9ik6ek4nn2bxrS37lnOWzt9X~NzdlaMx4riLPx3AoMr2cxPdJQtoOdq41h80itn7EoSjcMka3lz9xICWMFA98CXo2thL~iow__",
-        "image_file": "bagara_noaudio.mp4",
-        "image_hash": "88936898287292971cd1f7257ba79c8d4ce5f8af850f2c8150e560a8a4cb1afd",
-        "duration_seconds": 10,
-        "video": true,
-        "video_type": "video/mp4",
-        "mute": false
-},
-{
-"slot_id": 6,
+"slot_id": 5,
 "image_url": "https://a1-group.github.io/proto-assets/prod/Payal%20Ramsisaria%20Realtor_4d41fe68bd4084bbc99b5aba.mp4",
         "image_file": "Payal Ramsisaria Realtor_4d41fe68bd4084bbc99b5aba.mp4",
         "image_hash": "e50ab08e037e85a472cbc2ab436244ceeb6ccbb199df66506ecb016273b2be0a",
