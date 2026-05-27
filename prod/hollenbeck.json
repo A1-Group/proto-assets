@@ -47,6 +47,17 @@
         "video_type": "video/mp4",
         "mute": false
 
+},
+{
+"slot_id": 6,
+"image_url": "https://a1-group.github.io/proto-assets/prod/bagara_noaudio.mp4",
+        "image_file": "bagara_noaudio.mp4",
+        "image_hash": "88936898287292971cd1f7257ba79c8d4ce5f8af850f2c8150e560a8a4cb1afd",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+
 }
 
     ]
