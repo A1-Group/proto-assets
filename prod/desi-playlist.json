@@ -1,0 +1,103 @@
+{
+  "playlist": {
+    "repeat": true,
+    "id": "c3df4f45-b10e-4daa-867a-4a607ce09e8d",
+    "ads": [
+      {
+        "slot_id": 1,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/683e482759dbeeae5128fca0/Ravi%20Prakash%20Realtor%20Ad.mp4?Expires=1783996329&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=FBV-qeD-sO4z6vP15MDVZ8-EAfEePx2r7uS9E7rjYK4FmeXPsAMVFzGukJkfRm3vnW8yXFj8~X1yu3lXGYixwYLqTe0OWNJsY51fEUfWo~aBoKixthLiw8g~hkP2bhPzvBEQG01~eF-~vqvL~uQ3VoAWKzWILIRorZKTAHZ0OLPCc9NhpaCbrqbqUv8kzVt7qt2LDEBm2~85RTrIR5cNX2oywln7Z~bvpgGjBKeCyejhKyGO~TjKwQ9B2GdhSH9p-dqrRdTwF3ec1s~oMShsyzvTvhwz0QYJ~4jqSavJfkT5WAuqJYoylbKvsDB~mZR8xERV0tiBffNanRfg6~4Vzw__",
+        "image_file": "Ravi Prakash Realtor Ad.mp4",
+        "image_hash": "5fcbdf4c481da1dabc63c91c3658fd54b6dd0ce8ad9cd139b984e0630aac03c0",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 2,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/lp1_updated.png?Expires=1783996329&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=X8W~Gv6sDhxIlKc6GtjlLVd4BFNvRl9jqFKMHb5~YY7SNZkL3NZUdZipZ~ZucOUGwLRiEY-peOxcMJOSI4LFomT~RYfNlX16hhLasmY3gArNIVkJXYf~l7WsRUoXP5GgnTyoI2CNtceTRJ~dP55pKNeK5W-7gImaZfmiNhQ1E98QXCeMYmzB9UdIToQ91gfoUewYKqPU6S~bpsfMfVBB2dF5W7GhJp0nNYS7EGSRD2WYTyW7SI4j9cYe2Hh03FUa~0PgldzkBdTBls7Ntylw56tNh1U~c~iiHEsxvLcp9JBZQaTngvGp7tqkTOw-e4V6DpddaaNCkk~8dq5Oqtxf2A__",
+        "image_file": "lp1_updated.png",
+        "image_hash": "35defa90ea184f69ade7fe60d0c0b564157af4f5efd73b26352b91fff2146b05",
+        "duration_seconds": 10
+      },
+      {
+        "slot_id": 3,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/697d46ad59dbeeae5129a4f0/Parina%20Tanna%20Realtor_2dbbe601d8531004effaaf81.mp4?Expires=1783996330&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=lWZl0OIMKaoCL3CTNyamSR6Zl6qgJOPBJ42Q~u7o8nawZecPh~rxqvx-QD5tG590TLhtMZwuS8g0kDOhfNdWaoxguy1-CIi4DbeczRbbyARVpPRGcvL8hGtmKX9EJAigzE-um4uwzbmVN8mwk4GEjEQ4xlF14DpHRGK6jpccQoIDSmw5GGzhRBAZvR1UUUZIe-hTjKMTixbnXgIoIz9Xbcuw5CgNLDwnBxsQqYMY0Kfok1hlBGMZgiMLMP7qDtzWzqju-SP7H2L0IKNyncqZpbQn280q2bcY2d-B0wIJCJa2mQhmjzCcxzXGwpwmrW1oCS-ge6LyGPVbPREpYvCdyg__",
+        "image_file": "Parina Tanna Realtor_2dbbe601d8531004effaaf81.mp4",
+        "image_hash": "9b0f4b6ab86ea9aef558a95197338b52b735576fe3edd3c2e6f0bcb5f60c9ff5",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 4,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/spring-updated-10s.mp4?Expires=1783996329&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=eB4fgm-R03N2R6gi0OJ2zvBtHfhlxpMt1y9c7izy4qcvOcfehm9kKlEc4JjoTkvESseueQkVYEGsSBGETZJm648qaqz~RCVwy2gjMKFImqjyN8EudN4T8oNJ~dbJlVZUnXAPjFoZ7i8dIB5gqrMghGemtnctsl8CxehhmxON0IwbiwJk6T20UTslj2LaUczDj5r1mufCGfk7nXl5GJVWBS3Sp9gfpuWPUbssk7pcb-GxOt1jUSPds6xN4c84zGQD4H2EhO7OrJG01h-HAsDKGJUWvCJJ7vF98~Yklw2kD~AwaKkTx2gTGy~tNcfWKzQq74QgZ6Rt-yH7~5BUVreAzw__",
+        "image_file": "spring-updated-10s.mp4",
+        "image_hash": "0ef67ab608a37f3021dd172377807fa5c8b2e058ebe1f3451dcabef2516a013f",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 5,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/686361b0eb5cf3b4722e19a8/KamnaMittalv4-hindi.mp4?Expires=1783996330&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=jTd~DVsotlk0wRc1R0YpnGKRbdRZIuIYUPvQxRTWo8N5St1AXWtA~DFAhXpCCU-AKlICvmOixFlDm0ofkLN3-A4qz6YDtLBOgS~LImV6bkCEo8ITYv15hdbgwOJFW6Abd0xIgDNBiBBI6GhX-1nN7NYa0csF2pzOYvltz~vzYwyURPe7ERtd8EtB0FPzgd8zPwMkNLVz5TIFzgymxthd5jop3QvXLrwVvHdpFitsogTWezvAp9nXsWkDp6WcO9AkcAeAOWDdSESZFqrVmGf7JehZBCGF--RRA~1NyNrz1ALCTAWZMG4UHmX6uSqgVJGre8zQvXftUw3STXUAinxLkQ__",
+        "image_file": "KamnaMittalv4-hindi.mp4",
+        "image_hash": "0e522bbedfe5454204a2d78a27a9f4e1607b0f6366cab9709fd1cd9d6fd9f7a6",
+        "duration_seconds": 10,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 6,
+        "image_file": "Munish Ghai_e4dccdb12660a95c6cda7863.png",
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/6a17de1059dbeeae512a1913/Munish%20Ghai_e4dccdb12660a95c6cda7863.png?Expires=1783997103&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=nBJDq2E9T8KBDwDjLqbFPK33ddCksBhssEuAyZo~A9T2-1A6iVTZk3RiaOhLclkOyL4wrWgcY2PuRPhthe5wBa3UM9ZGT3Rr9WrVnF6q~SL3Saudi2KRshN8P9RnNBgBXqfCQooppBZLdxVq7r6P1gJz9G1Y7G4wup-doVv9Udytfek6tBq2FH3fCnFheAcMY09raVkHtYcCeESOEu3UONdfRgiXIj~xvTi~lKDaPBxoDBz~p7hq49cEukFTczfqv3Q2xZunZOCg8BLeoR1dOkGvEV5M0~Yt-UrZeUfW34pUdpR-ByHDrSkEUNq5liBrA5nAUxCekSrrRNeRLHNW0g__",
+        "image_hash": "",
+        "duration_seconds": 10,
+        "video": false,
+        "mute": true
+      },
+      {
+        "slot_id": 7,
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/68217ef259dbeeae5128f1fc/bagara_noaudio.mp4?Expires=1783996330&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=X6jyRSBHC51YMkK1u0Q4jmoOrLyEjju4Zme2Cf9uCd27wpT1sh-5YzKIHZXfxQFPmhBx2AxRu~dUwPI~Yl1C2ZM3mmh-xnDSysI2~I7IAVFx2h2-YLaPTn3FaPl~3zRGaqyJNO4FRAfnPsiAUfPkJYjse6KafyHIluqk5v7JKoSUHTQg46wP11Vx4vvb5Y8s0PhKWuEdx7IurBpDyzeZGMmEz0f0~~kp9JCvPbljbo1MYbTIQ64~HMVxrOSwCj~4CXTqfgwlHI49W5TjJDR43tQuOZPy3xVCPhJwwfxH4hlS~YrFumTFUVSgOjG3jV73Q-sRK4Bhrj3W9QLiBz4Eeg__",
+        "image_file": "bagara_noaudio.mp4",
+        "image_hash": "88936898287292971cd1f7257ba79c8d4ce5f8af850f2c8150e560a8a4cb1afd",
+        "duration_seconds": 10.4,
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": false
+      },
+      {
+        "slot_id": 8,
+        "image_file": "Harpreet Kaur Realtor_e20c255fd5991820a464baf7.png",
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/6a210b5d59dbeeae512a1f2c/Harpreet%20Kaur%20Realtor_e20c255fd5991820a464baf7.png?Expires=1783997075&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=kym17pIcHNDKSUnkF7jphHj0Ewy8F9BeEg55deKhdbx90YePVjNjQRHL~RsKWeheKGPU5HRbKI6l-VCWamCB9rmpe-W-ZEpjwjHM674Ki19ca4wTBN0hybM0swTb4O2KPbeuraexUpXe-TrANqxEmDBeaxXdmTz7pDas6S0jYGDabkJWQwUVfF9~JOq3UGyWQFu7YAgq35FrKFIkFLhGtl3L4I-PsrwHBSYNkhICXFF9QixefvYP6S1H9shZ~1UOnRtcGMaiEKZGV5R~dWdjl5-31P77fV1a-uJll67mRk4hza97ClhFSTHmDqcxdOgbkCuiIShOPSiQ0RajyqkcbA__",
+        "image_hash": "",
+        "duration_seconds": 10,
+        "video": false,
+        "mute": true
+      },
+      {
+        "slot_id": 9,
+        "image_file": "Stratford open house v2.mp4",
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/69c1fa6159dbeeae5129d54f/Stratford%20open%20house%20v2.mp4?Expires=1783997038&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=P3xT~Tmw4YgqGJlP30Boj2IJL0YB-j4xdw25Kn39oZVRezd-Jgpzm6ddwqtXBYiFAkPtRlKxMnn0PaxVoPkaolzkmmaCPeR4h3NWDRYEZ-qZLnfBKlO8PiiCL5N7OIdS7~dhCM3O6GFbC6CX6R4NnhJYnYQ38uoswgrYounTavhiwgEjXtSIZLS7jHIgtpM6GxfHwVTAMlzMAASO6ykCK5Zr6kVcqC3TTMIWXTfimzq5Fjw9yNRI3s71m-WBqDhflj3PCUkn74lnozzE3RTDCVetKWlOOk8yYtbJ9TJY7QD7~PdBXSjsdOXyNeMYQG0KTwOvW91MFCkQVruJOyvugg__",
+        "image_hash": "",
+        "duration_seconds": 14.98,
+        "video": true,
+        "mute": true,
+        "video_type": "video/mp4"
+      },
+      {
+        "slot_id": 10,
+        "image_file": "Desi India Bazaar_5045910568bcadafb9ecaa02.mp4",
+        "image_url": "https://d1n4cn6y8b863x.cloudfront.net/67f228ddeb5cf3b4722df13d/Desi%20India%20Bazaar_5045910568bcadafb9ecaa02.mp4?Expires=1783997156&Key-Pair-Id=K3GIXQVX6ZIK3L&Signature=evDVxIq46PqLKbdHc4L3hgjmNmsQY8fJ-cg-HE9nM-6fTy0XepzSokKSAJ9CbrS5kQIa3CgkY69ybdWcNwEotefROXOpcqJ8n0Hki1tvoCvz0Ep4u0MCqLR04pVn1ZFvqdfRasWdbLWb-4L2tJbN~ZjqchqGCxeOJvx4zk2mB3rkqGu-UTIajBi5V0TUtR42IhaUU6bGqxH8M-1zH9UqYRcGqM~O1qSk01Q854WDTVEvFAaDmzu57iYG9wBrcQl2fVW0SGlV-IVOElhrJ8~EjL~NPeeEJNQUIvfVc21fJWZ6I2MVT7b3EN-ADTO-tMpXZQC7qQNiKXzn9NlHY9yvqQ__",
+        "image_hash": "525a3484b72c23dce2ca80b2a141e33f43fb73560e94215232cfe37b5f566e4e",
+        "duration_seconds": 20,
+        "video": true,
+        "mute": true,
+        "video_type": "video/mp4"
+      }
+    ]
+  }
+}
